@@ -6,9 +6,7 @@
 ## I'm Arthur! Let me introduce a little about myself :D
  
  * Studying to be a full-stack software engineer 💻
- * Lover of technology, videogames and sports ❤️
- * Geek 👾
- 
+ * Lover of technology ❤️
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arthurcassemiroo)](https://github.com/arthurcassemiroo)
