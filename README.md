@@ -1,8 +1,5 @@
 # Hi, it's a pleasure to have you here! 👋
 
-<img align="right" width="300" height="300" src="http://pa1.narvii.com/6736/984cab75fedcf7c66035b48f19f93267cbac0cb0_00.gif">
- 
- 
 ## I'm Arthur! Let me introduce a little about myself :D
  
  * Studying to be a data scientist 💻
