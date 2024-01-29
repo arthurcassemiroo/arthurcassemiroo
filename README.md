@@ -2,7 +2,7 @@
 
 ## I'm Arthur! Let me introduce a little about myself :D
  
- * Studying to be a data scientist 💻
+ * Studying to be a data engineer 💻
  * Lover of technology and big data ❤️
  
  ## Technologies
