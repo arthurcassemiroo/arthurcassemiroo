@@ -2,7 +2,8 @@
 
 ## I'm Arthur! Let me introduce a little about myself :D
  
-I'm a technology enthusiast with proficiency in Python, Spark, and specialized in big data, data analysis, and machine learning. My work focuses on applying big data solutions for analysis and extracting valuable insights. I have strong skills in Python development, data manipulation in Spark, SQL querying, and implementing machine learning algorithms to solve complex business problems. I'm constantly seeking to learn and collaborate on innovative projects in the data analysis and big data space.
+I'm a technology enthusiast with proficiency in Python, Spark, and specialized in big data, data analysis, and machine learning. My work focuses on applying big data solutions for analysis and extracting valuable insights.  In my free time, I also enjoy working on front-end development and UX design. I have strong skills in Python development, data manipulation in Spark, SQL querying, creating intuitive dashboards and implementing machine learning algorithms to solve complex business problems. I'm constantly seeking to learn and collaborate on innovative projects in the data analysis and big data space.
+
  
  ## Technologies
  
