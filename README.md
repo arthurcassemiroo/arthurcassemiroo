@@ -2,8 +2,7 @@
 
 ## I'm Arthur! Let me introduce a little about myself :D
  
- * Studying to be a data engineer 💻
- * Lover of technology and big data ❤️
+I'm a technology enthusiast with proficiency in Python, Spark, and specialized in big data, data analysis, and machine learning. My work focuses on applying big data solutions for analysis and extracting valuable insights. I have strong skills in Python development, data manipulation in Spark, SQL querying, and implementing machine learning algorithms to solve complex business problems. I'm constantly seeking to learn and collaborate on innovative projects in the data analysis and big data space.
  
  ## Technologies
  
