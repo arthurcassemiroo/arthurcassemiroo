@@ -16,7 +16,7 @@ I'm a technology enthusiast with proficiency in Python, Spark, and specialized i
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arthurcassemiroo)](https://github.com/arthurcassemiroo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cassemiro-360237210/)](https://www.linkedin.com/in/arthur-cassemiro-360237210/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cassemiro-360237210/)](https://www.linkedin.com/in/arthur-cassemiroo)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5511948012249&text=Hello!)](https://api.whatsapp.com/send?phone=+5511948012249&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurcassemiro.ac@gmail.com)](mailto:arthurcassemiro.ac@gmail.com)
  
