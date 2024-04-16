@@ -10,6 +10,9 @@ I'm a technology enthusiast with proficiency in Python, Spark, and specialized i
  * Python       
  * PySpark  
  * SQL
+ * HTML
+ * CSS
+ * JavaScript
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arthurcassemiroo)](https://github.com/arthurcassemiroo)
